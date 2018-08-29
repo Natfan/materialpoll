@@ -37,6 +37,6 @@ angular
       });
   })
   .constant('myConfig', {
-    'backend': 'http://45.55.31.147:9090/api/poll/',
+    'backend': 'https://poll.natfan.io/api/v1/poll/',
     'version': 0.3
   });
